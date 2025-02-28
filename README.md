@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Jellyliu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JellyLiu2001&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/JellyLiu2001)
+[![Jellyliu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JellyLiu2001&hide=html,scss,stylus,blade,jupyter%30notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/JellyLiu2001)
 <!--
 **JellyLiu2001/JellyLiu2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
